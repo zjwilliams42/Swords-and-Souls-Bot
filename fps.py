@@ -43,10 +43,10 @@ def screen_record_efficient():
         img = numpy.asarray(sct.grab(mon))
         fps += 1
 
-        #cv2.imshow(title, img)
-        #if cv2.waitKey(25) & 0xFF == ord("q"):
-        #    cv2.destroyAllWindows()
-         #   break
+        cv2.imshow(title, img)
+        if cv2.waitKey(25) & 0xFF == ord("q"):
+            cv2.destroyAllWindows()
+            break
 
     sct.close()
     return fps
