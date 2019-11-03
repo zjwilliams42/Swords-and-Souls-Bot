@@ -1,4 +1,5 @@
-This is a bot for the Swords and Souls. It may eventually be finished, but it likely wont be.
+This is a bot for the Swords and Souls. It will not be finished.
+This was a quick project intended to get some practice with the concepts, I got the idea and it no longer interests me.
 https://www.kongregate.com/games/SoulGame/swords-and-souls
 
 At the moment, there are just some methods for the training.
